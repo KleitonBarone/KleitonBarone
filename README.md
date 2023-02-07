@@ -13,6 +13,7 @@ Hi there! i'm Kleiton, a software engineer working in development and mainly foc
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+### Contact Me
 <div align="left"> 
   <a href="https://www.linkedin.com/in/kleiton-barone/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:kleitonpolar6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
