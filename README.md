@@ -1,5 +1,5 @@
-[![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonBarone&count_private=true&show_icons=true&hide=issues,contribs&theme=dracula&line_height=30&include_all_commits=true)](https://github.com/KleitonBarone)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonBarone&hide=php,html,css&layout=compact&langs_count=6&theme=dracula)](https://github.com/KleitonBarone)
+[![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonBarone&count_private=true&show_icons=true&hide=issues,contribs&theme=dracula&line_height=30&include_all_commits=true)](https://www.linkedin.com/in/kleiton-barone/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonBarone&hide=php,html,css&layout=compact&langs_count=6&theme=dracula)](https://www.linkedin.com/in/kleiton-barone/)
 
 ## About me
 Hi there! i'm Kleiton, a software engineer working in development and mainly focused on back-end.
