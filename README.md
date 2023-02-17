@@ -4,13 +4,10 @@
 ## About me
 Hi there! i'm Kleiton, a software engineer working in development and mainly focused on back-end.
 
-<p>  
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/kleiton-barone/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,html,css,js,ts,nodejs,nestjs,jest,dynamodb,mongodb,mysql,postgres,kafka" />
+  </a>
 </p>
 
 ### Contact Me
